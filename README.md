@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <h1 align="center">Hi, I'm Sakshi Singh 👋</h1>
 <h3 align="center">Cybersecurity Professional | Security Operations & PKI Infrastructure</h3>
