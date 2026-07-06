@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:asingh05@outlook.com"><img src="https://img.shields.io/badge/Email-asingh05%40outlook.com-D14836?style=flat&logo=microsoft-outlook&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:asingh05@outlook.com"><img src="https://img.shields.io/badge/Email-Sakshisingh05%40outlook.com-D14836?style=flat&logo=microsoft-outlook&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sakshi-singh-20b833216"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
